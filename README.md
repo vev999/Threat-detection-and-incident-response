@@ -1,7 +1,10 @@
 # Threat-detection-and-incident-response
-Skrypt Bash automatyzujący zbieranie informacji o systemie Linux oraz generowanie przejrzystego raportu diagnostycznego.
+
+#### Skrypt Bash automatyzujący zbieranie informacji o systemie Linux oraz generowanie przejrzystego raportu diagnostycznego.
+
 ---
-Narzędzie agreguje dane z różnych obszarów systemu, takich jak procesy, usługi, użytkownicy, sieć, bezpieczeństwo czy logi, i zapisuje je w jednym pliku tekstowym. Raport rozpoczyna się aktualną datą oraz nazwą hosta, co ułatwia archiwizację i analizę wielu systemów.
+#### Narzędzie agreguje dane z różnych obszarów systemu, takich jak procesy, usługi, użytkownicy, sieć, bezpieczeństwo czy logi, i zapisuje je w jednym pliku tekstowym. Raport rozpoczyna się aktualną datą oraz nazwą hosta, co ułatwia archiwizację i analizę wielu systemów.
+
 ---
 ## Funkcjonalności 
 - zbieranie informacji o procesach (CPU, RAM, systemowe)
@@ -15,9 +18,11 @@ Narzędzie agreguje dane z różnych obszarów systemu, takich jak procesy, usł
 - konfiguracja sieci
 - podstawowe informacje bezpieczeństwa (iptables, SELinux, AppArmor)
 ---
-## Wynik działania
+# Wynik działania
 
 Raport zapisywany jest w katalogu: `~/raporty/` i posiada nazwę w formacie: `raport_<hostname>_<data>.txt`
+
+
 ---
 ## Uruchomienie ##
 
