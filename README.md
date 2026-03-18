@@ -6,6 +6,7 @@
 #### Narzędzie agreguje dane z różnych obszarów systemu, takich jak procesy, usługi, użytkownicy, sieć, bezpieczeństwo czy logi, i zapisuje je w jednym pliku tekstowym. Raport rozpoczyna się aktualną datą oraz nazwą hosta, co ułatwia archiwizację i analizę wielu systemów.
 
 ---
+
 ## Funkcjonalności 
 - zbieranie informacji o procesach (CPU, RAM, systemowe)
 - lista zainstalowanych pakietów oraz ostatnich instalacji
@@ -24,6 +25,7 @@ Raport zapisywany jest w katalogu: `~/raporty/` i posiada nazwę w formacie: `ra
 
 
 ---
+
 ## Uruchomienie ##
 
 `chmod +x raport_systemowy.sh
