@@ -28,5 +28,5 @@ Raport zapisywany jest w katalogu: `~/raporty/` i posiada nazwę w formacie: `ra
 
 ## Uruchomienie ##
 
-`chmod +x raport_systemowy.sh
-./raport_systemowy.sh`
+`chmod +x raport_systemowy.sh`
+`./raport_systemowy.sh`
